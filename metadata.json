@@ -1,0 +1,6 @@
+{
+  "name": "Mood to Movement",
+  "description": "A mobile-first gentle movement app that turns your mood and stress level into a beginner-friendly 5-10 minute stretch or yoga flow.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
